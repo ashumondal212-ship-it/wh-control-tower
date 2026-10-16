@@ -1,0 +1,3 @@
+{
+  "functions": { "api/sheet.js": { "maxDuration": 10 } }
+}
